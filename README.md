@@ -6,7 +6,7 @@ I enjoy spending my time tackling interesting problems, and presenting feasible 
 
 ## I like
 
-- Figure out best&worst practices (by asking "Why?").
+- Figure out best&worst practices by asking what's the best ways to solve complex problems and why.
 
 ### Connect with me
 
