@@ -1,6 +1,6 @@
 ### Hi there, I'm Bilal Ahmed 👋
 
-[![Website](https://img.shields.io/website?label=Bilal-Ahmed.com&style=for-the-badge&url=https%3A%2F%2Fwww.bilal-ahmed.com)](https://www.bilal-ahmed.com.de)
+[![Website](https://img.shields.io/website?label=Bilal-Ahmed.com&style=for-the-badge&url=https%3A%2F%2Fwww.bilal-ahmed.com.de)](https://www.bilal-ahmed.com.de)
 
 I enjoy spending my time tackling interesting problems, and presenting feasible innovative solutions. I am always driven by my curiosity to find answers to the most pressing questions, I am blessed to have the ability to quickly learn and adapt to arising challenges.
 
