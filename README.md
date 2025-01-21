@@ -1,4 +1,4 @@
 ### Hi there, I'm Bilal Ahmed 👋,
-an experienced Full Stack Developer with over 3 years in IT. Proficient in Java (Spring-boot) for backend and React.js for frontend, I specialize in building and deploying web applications using Docker. Skilled in database management (MongoDB, MySQL, SQLite) and familiar with technologies like Redis and Git, I also excel in server configurations, automation, and SEO.
+FullStack Web Developer with over 3 years of experience designing, developing, and deploying scalable web applications and infrastructure solutions. Expertise in full-stack development with React.js, Next.js, Spring Boot, and MySQL. Skilled in DevOps practices and cloud computing with AWS services. Adept at solving complex technical challenges and aligning technical solutions with business objectives.
 
 [![Website](https://img.shields.io/website?label=Bilal-Ahmed-Dev.com&style=for-the-badge&url=https%3A%2F%2Fwww.bilal-ahmed-dev.com)](https://www.bilal-ahmed-dev.com)
